@@ -2,6 +2,13 @@
 
 # ❤️ Senior Full Stack Developer ❤️
 
+- 👀 Rich experience in the software industry
+- 🔭 Rich experience in web development with .NET & Python & JS & PHP frameworks 
+- 🌱 Proficient in hybrid app development for mobile and desktop with Flutter and .NET MAUI
+- 👯 Skills in blockchain & AI & Data science
+- ⚡ Can start new project immediately
+- ✔️ I’m available for remote opportunities
+
 <!--
 **vanessaellen201325/vanessaellen201325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
