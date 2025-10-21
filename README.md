@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# ❤️ Senior Full Stack Developer ❤️
+
 <!--
 **vanessaellen201325/vanessaellen201325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
